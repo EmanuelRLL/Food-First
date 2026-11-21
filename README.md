@@ -10,6 +10,7 @@ meal planner
 
 
 [User story 1] - Emanuel
+
 As a user, I want to add or remove an ingredient from pantry list so that i can use these ingredients to get a recipe.
 The user opens the pantry panel and adds or removes an ingredient. (We expect the user to enter the ingredients that they already have in their home)
 
