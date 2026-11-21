@@ -1,7 +1,7 @@
-# foodfirst
+# Fridge First
 
 # Team Members name:
-- Emmanuel Ribeiro Lemos Pereira
+- Emanuel Ribeiro Lemos Pereira
 - Kazuki baba
 - Yafet Araya Tekelehaimanot
 
@@ -9,7 +9,7 @@
 meal planner
 
 
-[User story 1] - Emmanuel
+[User story 1] - Emanuel
 As a user, I want to add or remove an ingredient from pantry list so that i can use these ingredients to get a recipe.
 The user opens the pantry panel and adds or removes an ingredient. (We expect the user to enter the ingredients that they already have in their home)
 
@@ -39,7 +39,7 @@ Alternative flows: Invalid or negative calorie values
 Precondition: App is running
 Postcondition: Preferences are saved for future recommendations.
 
-[User story 3] -Kazuki
+[User story 3] - Kazuki
 
 As a user, I want to press generate recipe button so that i can get top 5 ranked recipes.
 
